@@ -1,0 +1,98 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: "cursive",cursive,sans-serif;
+}
+
+.top h1 {
+  font-size: 5.625rem;
+  margin-top: 50px;
+  color: #614124;
+}
+
+.top h2 {
+  font-size: 2.5rem;
+  color: #614124;
+  font-weight: normal;
+}
+
+.top {
+  background-color: #87805E;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+  }
+
+  h1 {
+    color: #362706;
+  }
+
+  .middle {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+  }
+
+  .bottom {
+  background-color: pink;
+  width: 200px;
+  height: 200px;
+  }
+
+.nube {
+  position: absolute;
+  bottom: 60%;
+  right: 35%;
+}
+
+.nebu {
+  position: absolute;
+  top: 50%;
+}
+
+.profile {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+.nirvana {
+  width: 400px;
+  border-radius: 100%
+}
+
+.rock {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+.nirvanaa {
+  width: 600px;
+  border-radius: 100%;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: greey;
+  border-width: 5px;
+  width: 10%;
+}
+
+.link {
+  background-color: #87805E;
+  padding-top: 100px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 100px;
+}
+
+a:hover {
+  color: green
+}
+
+a:active {
+  color: red
+}
